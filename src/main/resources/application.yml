@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: santander-dev-week-2024
+  datasource:
+    url: jdbc:h2:mem:sdw2024
